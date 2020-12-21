@@ -1,0 +1,12 @@
+Abstractive
+        Try to write the summary in their own words.
+
+
+Extractive
+            Try to write the summary from paragraph/input text which we have provided
+
+find the accuracy of model
+
+Rouge score
+
+Blue score
